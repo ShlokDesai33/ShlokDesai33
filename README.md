@@ -2,11 +2,11 @@
 
 <hr />
 
-### My Hackathon Projects (4x Hackathon Winner)
+### Hackathon Projects
 
-- Nueracare
-- The Equidistant
-- Musix
-- Javin
+- [Nueracare](https://github.com/Neuracare)
+- [The Equidistant](https://github.com/TheEquidistantProject)
+- [Musix](https://devpost.com/software/musix)
+- [Javin](https://devpost.com/software/javin)
 
-[Devpost Profile](https://devpost.com/ShlokDesai33)
+Check out my [Devpost Profile](https://devpost.com/ShlokDesai33)!
