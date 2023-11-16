@@ -15,4 +15,4 @@ Check out my [Devpost Profile](https://devpost.com/ShlokDesai33)!
 
 ### Links
 
-[Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
