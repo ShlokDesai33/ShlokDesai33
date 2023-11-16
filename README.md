@@ -10,3 +10,9 @@
 - [Javin](https://devpost.com/software/javin)
 
 Check out my [Devpost Profile](https://devpost.com/ShlokDesai33)!
+
+<hr />
+
+### Links
+
+[Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
